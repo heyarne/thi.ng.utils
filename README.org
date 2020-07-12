@@ -1,0 +1,7 @@
+#+TITLE: heyarne.thi.ng/utils
+
+Contains some helpers when working with [[https://github.com/thi-ng/geom/tree/1.0.0-RC4][~thi.ng/geom~]].
+
+** Implemented
+
+- [[file:src/heyarne/thi/ng/utils/poisson.clj][Poisson-Disk-Sampling]]
