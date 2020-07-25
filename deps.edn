@@ -1,3 +1,4 @@
 {:paths ["src"]
  :deps {thi.ng/geom {:mvn/version "1.0.0-RC4"}
-        criterium {:mvn/version "0.4.6"}}}
+        criterium {:mvn/version "0.4.6"}
+        clj-kdtree {:mvn/version "1.2.0"}}}
